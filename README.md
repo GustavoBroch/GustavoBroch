@@ -1,5 +1,4 @@
 ### #EAT- SLEEP - CODE - REPEAT
-![GitHub](https://user-images.githubusercontent.com/66652423/99021860-55a5dc80-2540-11eb-86e6-0d415b34b457.png)
 
 <center>
 <table>
