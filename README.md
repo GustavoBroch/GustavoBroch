@@ -1,5 +1,14 @@
-### Hi there 👋
+### #EAT- SLEEP - CODE - REPEAT
+![GitHub](https://user-images.githubusercontent.com/66652423/99021860-55a5dc80-2540-11eb-86e6-0d415b34b457.png)
 
+<center>
+<table>
+    <tr>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBroch&hide=html&layout=compact&theme=algolia" /></td>
+        <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoBroch&theme=algolia"/></td>
+    </tr>   
+</table>
+</center> 
 <!--
 **GustavoBroch/GustavoBroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
